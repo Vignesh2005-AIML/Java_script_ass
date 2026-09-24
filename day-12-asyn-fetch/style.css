@@ -1,0 +1,61 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 40px;
+}
+
+.container {
+    max-width: 500px;
+    margin: auto;
+    text-align: center;
+}
+
+h1 {
+    margin-bottom: 25px;
+}
+
+/* .search-box {
+    display: flex;
+    gap: 10px;
+}
+
+input {
+    flex: 1;
+    padding: 12px;
+    font-size: 16px;
+}
+
+button {
+    padding: 12px 20px;
+    cursor: pointer;
+}
+
+#message {
+    margin: 20px;
+}
+
+.profile-card {
+    background: white;
+    padding: 25px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+.avatar {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+}
+
+.username {
+    color: #666;
+}
+
+.bio {
+    margin: 20px 0;
+}
+
+.repos {
+    font-size: 18px;
+} */
